@@ -1,0 +1,18 @@
+<div id="footer">
+		<ul>
+			<li><h1 style="color:black">Copyright© Ani, Dody, Faiqul, Wahyu</h1></li>
+			<address>
+				<p>
+										Jln. Raya Bandung-Sumedang Km.21	
+				<br>
+										Jatinangor, Kab. Sumedang 45363, Jawa Barat
+				</p>
+				<p>			Telp. 022 7794696 &nbsp;&nbsp;&nbsp; Email. math@unpad.ac.id</p>
+				<ul> 
+					<li><a href="http://math.fmipa.unpad.ac.id">math.fmipa.unpad.ac.id</a></li>
+					<li><a href="http://himatika.fmipa.unpad.ac.id">&nbsp;&nbsp;&nbsp; himatika.fmipa.unpad.ac.id</a></li>
+					<li><a href="http://astlabmatematika.wordpress.com"> &nbsp;&nbsp;&nbsp; astlabmatematika.wordpress.com</a></li>
+				</ul>
+			</address>
+		</ul>
+	</div>
